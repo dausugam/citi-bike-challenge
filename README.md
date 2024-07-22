@@ -6,7 +6,7 @@ For this module assignment, the Citi Bike Trip History for June 2024 have been u
 
 ## 02. Data Preprocessing
 
-To combine and clean the information provided by the New York Citi Bike project, the Pandas library in Python was used. Additionally, the calculation for the total bike trip length (in minutes) was included. See the Jupyter Notebook `file data_preprocessing.ipynb`
+To combine and clean the information provided by the New York Citi Bike project, the Pandas library in Python was used. Additionally, the calculation for the total bike trip length (in minutes) was included. See the Jupyter Notebook `file data_preprocessing.ipynb` [Tableau Public Report](https://public.tableau.com/app/profile/daniel.usuga/viz/tableau_file_17216437472030/Map-StartStations)
 
 ## 03. Tableau Visualization
 
